@@ -1,8 +1,8 @@
-# Hi, I'm Ahmed Waleed 👋
+# Hi, I'm Ahmed Waleed 
 
-💻 Frontend-Focused Software Engineering Student
-🎓 Computer Science & Engineering @ GUC
-📍 Egypt
+Frontend-Focused Software Engineering Student
+Computer Science & Engineering @ GUC
+Egypt
 
 ---
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 * Email: [ahmedwaleedhegazy2005@gmail.com](mailto:ahmedwaleedhegazy2005@gmail.com)
 * GitHub: https://github.com/AhmedWaleed00
